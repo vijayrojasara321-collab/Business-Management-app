@@ -1,0 +1,6 @@
+{
+  "name": "My Personal Business Assistant",
+  "description": "Complete Native Android & Offline Personal Business Management System for multiple businesses, partners, employees, tasks, timetable, meetings, credentials, and documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
